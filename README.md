@@ -7,14 +7,14 @@
     sudo pip3 install adafruit-circuitpython-mcp4725
 
 # Second Step
-you should configure your raspberry pi enable i2c port
+    you should configure your raspberry pi enable i2c port
     Raspi-Config - Interfacing - I2C via command line 
-    1.From the command line or Terminal window start by running the following command :
-    sudo raspi-config
-    2.This will launch the raspi-config utility. Select “Interfacing Options” :
-    3.Highlight the “I2C” option and activate “<Select>”.
-    4.Highlight and activate “<Ok>” 
-    5.Prompted to reboot highlight and activate “<Yes>”
+        1.From the command line or Terminal window start by running the following command :
+        sudo raspi-config
+        2.This will launch the raspi-config utility. Select “Interfacing Options” :
+        3.Highlight the “I2C” option and activate “<Select>”.
+        4.Highlight and activate “<Ok>” 
+        5.Prompted to reboot highlight and activate “<Yes>”
 
 # Third Step
     find a address i2c
