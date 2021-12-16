@@ -16,7 +16,7 @@
     4.Highlight and activate “<Ok>” 
     5.Prompted to reboot highlight and activate “<Yes>”
 
-# hird Step
+# Third Step
     find a address i2c
         sudo apt-get update
         sudo apt-get install -y python-smbus i2c-tools
@@ -25,7 +25,7 @@
         i2cdetect -y 1 or i2cdetect -y 0
 
 thank you for knowledge 
-https://learn.adafruit.com/mcp4725-12-bit-dac-tutorial/python-circuitpython
-https://www.raspberrypi-spy.co.uk/2014/11/enabling-the-i2c-interface-on-the-raspberry-pi/
+    https://learn.adafruit.com/mcp4725-12-bit-dac-tutorial/python-circuitpython
+    https://www.raspberrypi-spy.co.uk/2014/11/enabling-the-i2c-interface-on-the-raspberry-pi/
 
 good lucky sir. 
