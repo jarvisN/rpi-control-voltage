@@ -23,3 +23,9 @@ Third Step
     sudo halt
     lsmod | grep i2c_
     i2cdetect -y 1 or i2cdetect -y 0
+
+thank you for knowledge :
+https://learn.adafruit.com/mcp4725-12-bit-dac-tutorial/python-circuitpython
+https://www.raspberrypi-spy.co.uk/2014/11/enabling-the-i2c-interface-on-the-raspberry-pi/
+
+good lucky sir. 
