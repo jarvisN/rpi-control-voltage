@@ -26,6 +26,7 @@
 
 # Thank you for knowledge. : 
     https://learn.adafruit.com/mcp4725-12-bit-dac-tutorial/python-circuitpython
+    
     https://www.raspberrypi-spy.co.uk/2014/11/enabling-the-i2c-interface-on-the-raspberry-pi/
 
-good lucky sir. 
+Good lucky sir. 
