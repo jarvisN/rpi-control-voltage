@@ -1,4 +1,4 @@
-# Rpi-control-voltage.
+# Raspberry PI Control Voltage.
     Raspberry pi use i2c port SDA / SCL
     Compound with ic 4725 DAC 
 
